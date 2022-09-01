@@ -6,7 +6,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Aplicaciones Web**
 
-- 🌱 Actualmente estoy aprendiendo **Solidity**
+- 🌱 Actualmente estoy aprendiendo **Typescript**
 
 - 💬 Deseando seguir **Aprendiendo**
 
