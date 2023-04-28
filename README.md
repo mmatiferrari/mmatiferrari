@@ -6,9 +6,9 @@
 
 - 🔭 Actualmente estoy trabajando en **Aplicaciones Web**
 
-- 🌱 Actualmente estoy aprendiendo **Typescript**
+- 🌱 Actualmente estoy investigando **Solidity**
 
-- 💬 Deseando seguir **Aprendiendo**
+- 💬 En continuo **Aprendiendo**
 
 - 📫 Como contactarme **matiasferrari96@gmail.com**
 
