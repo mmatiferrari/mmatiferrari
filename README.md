@@ -8,7 +8,7 @@
 
 - 🌱 Actualmente estoy investigando **Solidity**
 
-- 💬 En continuo **Aprendiendo**
+- 💬 En continuo **Crecimiento**
 
 - 📫 Como contactarme **matiasferrari96@gmail.com**
 
